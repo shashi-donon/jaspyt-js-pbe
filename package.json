@@ -1,0 +1,25 @@
+{
+  "name": "jaspytpbe",
+  "version": "1.0.0",
+  "description": "Javascript Implementation of Bouncy Castle Password based Encryption with sha256 and 256 bit AES.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shashi-donon/jaspyt.git"
+  },
+  "keywords": [
+    "crypto", 
+    "PBEWITHSHA256AND256BITAES-CBC-BC", 
+    "jaspyt", 
+    "bouncy castle", 
+    "java", 
+    "encryption",
+    "password based encryption",
+    "p12b64"
+  ],
+  "author": "Shashikanth D",
+  "license": "ISC"
+}
