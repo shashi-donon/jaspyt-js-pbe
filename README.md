@@ -4,10 +4,10 @@
 # How to use:
 just import the function `decrypt` from `jaspyt-js-pbe`
 ```
-const decrypt = require('jaspytpbe')
+const decrypt = require('jaspyt-js-pbe')
 ```
 
 > or in ES6
 ```
-import decrypt from 'jaspytpbe'
+import decrypt from 'jaspyt-js-pbe'
 ```
